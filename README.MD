@@ -30,6 +30,11 @@
 <img src="https://img.shields.io/github/commits-since/TransformerOptimus/SuperAGI/v0.0.3.svg?style=for-the-badge" alt="SuperAGI Commits"/>
 </a>
 
+<a href="https://superagi.com"> <img src="https://superagi.com/wp-content/uploads/2023/07/Website.svg"></a>
+<a href="https://app.superagi.com"> <img src="https://superagi.com/wp-content/uploads/2023/07/Cloud.svg"></a>
+<a href="https://marketplace.superagi.com/"> <img src="https://superagi.com/wp-content/uploads/2023/07/Marketplace.svg"></a>
+
+
 </p>
 
 <p align="center"><b>Follow SuperAGI </b></p>
