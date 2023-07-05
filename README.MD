@@ -84,7 +84,6 @@
 <a href="https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=640182997&machine=basicLinux32gb&location=EastUs"> <img src="https://github.com/codespaces/badge.svg"></a><br>Not sure how to setup? <a href="https://youtu.be/iSPHZ1onQ44">Learn here</a>
 </p>
 
-<p contenteditable > Hello</p>
 
 ## 💡 Features
 
